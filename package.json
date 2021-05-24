@@ -1,0 +1,22 @@
+{
+  "name": "normseportfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanmahinay7/normseportfolio.git"
+  },
+  "author": "norman maslow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanmahinay7/normseportfolio/issues"
+  },
+  "homepage": "https://github.com/normanmahinay7/normseportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
